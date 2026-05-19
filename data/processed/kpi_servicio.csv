@@ -1,0 +1,6 @@
+servicio,total_admisiones,estancia_promedio,costo_promedio,fallecidos,mortalidad_pct,costo_total_MM
+UCI,256,15.52,77024817.0,18,7.03,19718.4
+Cirugía,248,14.88,52675023.0,13,5.24,13063.4
+Consulta externa,243,14.95,2485076.0,11,4.53,603.9
+Urgencias,228,15.29,8359306.0,10,4.39,1905.9
+Hospitalización,225,15.71,21069826.0,4,1.78,4740.7

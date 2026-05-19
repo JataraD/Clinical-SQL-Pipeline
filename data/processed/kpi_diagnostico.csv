@@ -1,0 +1,11 @@
+diagnostico_principal,pacientes_unicos,total_admisiones,edad_promedio,estancia_promedio,tasa_readmision_pct,costo_total_MM
+Hipertensión arterial,43,130,49.4,15.7,6.9,4828.4
+Sepsis,56,140,52.2,14.9,14.3,4628.0
+ACV isquémico,52,136,51.9,15.8,19.9,4458.0
+EPOC,47,125,51.0,16.5,11.2,4194.0
+Neumonía,46,119,54.8,14.8,13.4,4037.5
+Infección urinaria,45,107,56.5,14.6,15.0,3973.5
+Insuficiencia cardíaca,46,125,54.2,15.2,12.0,3965.6
+Fractura de cadera,45,125,54.4,14.9,18.4,3636.7
+Cáncer de mama,35,93,53.2,16.2,17.2,3229.1
+Diabetes mellitus tipo 2,38,100,53.1,13.8,16.0,3081.6

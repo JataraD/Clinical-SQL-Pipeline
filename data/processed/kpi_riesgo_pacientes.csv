@@ -1,0 +1,21 @@
+patient_id,edad,diagnostico_principal,eps,total_admisiones,total_readmisiones,estancia_promedio,costo_total_MM,risk_score
+PAC0485,59,Cáncer de mama,Famisanar,5,3,24.0,69.06,26.9
+PAC0140,79,Fractura de cadera,Nueva EPS,6,3,19.2,381.69,26.5
+PAC0381,86,Diabetes mellitus tipo 2,Sanitas,5,3,15.8,199.64,25.5
+PAC0454,78,Hipertensión arterial,Sanitas,4,2,21.8,218.35,24.7
+PAC0284,42,ACV isquémico,Sanitas,8,4,16.9,191.53,24.6
+PAC0495,82,Infección urinaria,Sura,4,2,20.3,263.01,24.3
+PAC0151,76,ACV isquémico,Sanitas,2,2,20.5,77.38,23.9
+PAC0180,86,Insuficiencia cardíaca,Sura,6,2,17.3,179.49,23.3
+PAC0378,86,Infección urinaria,Compensar,1,0,29.0,130.8,23.1
+PAC0339,77,Sepsis,Compensar,4,2,18.8,244.89,23.1
+PAC0497,88,EPOC,Famisanar,3,1,22.3,84.59,23.0
+PAC0325,80,ACV isquémico,Sanitas,1,0,29.0,11.75,22.5
+PAC0012,55,Sepsis,Sanitas,1,1,28.0,113.05,22.5
+PAC0356,79,Neumonía,Famisanar,2,1,23.0,201.55,22.4
+PAC0260,81,Neumonía,Sura,5,2,16.6,219.83,22.4
+PAC0143,89,Sepsis,Famisanar,5,2,15.0,145.41,22.4
+PAC0113,80,Fractura de cadera,Sanitas,4,2,16.8,100.11,22.4
+PAC0208,77,Insuficiencia cardíaca,Sura,1,0,29.0,19.84,22.2
+PAC0352,80,Cáncer de mama,Nueva EPS,2,0,28.0,145.83,22.0
+PAC0003,89,Diabetes mellitus tipo 2,Sura,1,0,26.0,13.75,21.9
